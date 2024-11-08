@@ -1,0 +1,1 @@
+# Projeto criado para mapeamento dos elementos de interface de uma aplicação mobile android usando appium inspector
